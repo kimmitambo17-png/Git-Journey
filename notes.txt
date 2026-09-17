@@ -1,1 +1,2 @@
-Mitambo
+Git Bash
+GitHub
